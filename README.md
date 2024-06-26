@@ -1,7 +1,7 @@
 ## Olá ! Eu sou o BrunoCara
 
-- 🔭 Atualmente estudo analise e desenvolvimento de sistemas na faculdade São Paulo Tech School
-- 📒 Aprendendo JS, CSS, SQL e Java
+- 🔭 Formado em analise e desenvolvimento de sistemas na faculdade São Paulo Tech School
+- 📒 Conhecedor das linguagens JS, CSS, SQL, Java, SpringBoot e React
 
 <div align="center">
   <a href="https://github.com/BrunoCara">
